@@ -1,15 +1,18 @@
-
+```markdown
 # Hi, I'm Syed Yaseen 👋
 
-Computer Science student from India, passionate about building modern web applications and learning by creating.
+Computer Science student passionate about building modern web applications and solving real-world problems.
 
-### Tech
-JavaScript • TypeScript • Node.js • Python • MongoDB • Git
+## 💻 Skills
+- JavaScript • TypeScript • Node.js • Express.js
+- Python • MongoDB • SQL
+- HTML • CSS • Git • REST APIs
 
-### Currently
+## 🚀 Currently
 - Building full-stack projects
-- Improving DSA & backend development
+- Learning backend architecture & DSA
 - Exploring open source
 
 📫 **Email:** yaseen9805@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/yaseen9805
+🔗 **LinkedIn:** linkedin.com/in/yaseen9805
+```
