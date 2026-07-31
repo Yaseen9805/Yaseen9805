@@ -17,9 +17,7 @@ Currently sharpening backend architecture and data structures & algorithms, and 
 
 **Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit
 
-**Backend:** Node.js, Express.js, Flask
-
-**Data & ML:** MongoDB, scikit-learn, Power BI, DAX
+**Backend:** Node.js, Express.js, MongoDB
 
 **Tools:** Git, REST APIs
 
@@ -33,14 +31,13 @@ Currently sharpening backend architecture and data structures & algorithms, and 
 **[Fast React Pizza Co.](https://github.com/Yaseen9805/Fast-React-Pizza-Co)** — Pizza ordering app with geolocation-based checkout and live order tracking, built with React, Redux Toolkit, and React Router.
 
 
-**[Sign Language Translator](https://github.com/Yaseen9805/SignLanguage-Translator)** — Real-time hand-gesture translator using MediaPipe and a Flask/WebSocket backend.
+**[WorldWise](https://github.com/Yaseen9805/Worldwise)** — A travel-logging app with an interactive Leaflet map, reverse geocoding, and protected routes, built with React and React Router.
 
 
-**[Credit Card Fraud Detection](https://github.com/Yaseen9805/CreditCardFraudDetection)** — A Random Forest fraud classifier wrapped in a Tkinter desktop GUI.
+**[Subscription Tracker API](https://github.com/Yaseen9805/Subscription_tracker_api)** — A Node/Express/MongoDB backend with JWT auth, automatic renewal dates, and scheduled reminders via Upstash Workflow.
 
 
-**[GitHub Profile Finder](https://github.com/Yaseen9805/Github-Profile-Finder)** — Looks up any GitHub profile and its repositories using the GitHub REST API.
-
+**[React Quiz](https://github.com/Yaseen9805/React-Quiz)** — A single-page quiz app with a countdown timer and persisted high score, using useReducer and Context.
 
 ---
 📫 yaseen9805@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/yaseen9805)
