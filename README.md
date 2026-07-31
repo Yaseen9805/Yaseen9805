@@ -42,11 +42,5 @@ Currently sharpening backend architecture and data structures & algorithms, and 
 **[GitHub Profile Finder](https://github.com/Yaseen9805/Github-Profile-Finder)** — Looks up any GitHub profile and its repositories using the GitHub REST API.
 
 
-## GitHub Stats
-
-
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseen9805&show_icons=true&theme=radical)
-
-
 ---
 📫 yaseen9805@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/yaseen9805)
