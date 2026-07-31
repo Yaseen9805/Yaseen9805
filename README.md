@@ -4,10 +4,10 @@ Computer Science student and full-stack developer, building REST APIs, web apps,
 
 ## 💻 Skills
 
-**Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS3
-**Web & Frameworks:** React, Next.js, Node.js, Express.js, REST APIs, Vite
-**Databases, Auth & Version Control:** MongoDB, JWT, Git, GitHub
-**Tools:** VS Code, Figma, Bash, Linux, Vagrant
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS3
+- **Web & Frameworks:** React, Next.js, Node.js, Express.js, REST APIs, Vite
+- **Databases, Auth & Version Control:** MongoDB, JWT, Git, GitHub
+- **Tools:** VS Code, Figma, Bash, Linux, Vagrant
 
 ## 🚀 Currently
 
@@ -16,5 +16,7 @@ Computer Science student and full-stack developer, building REST APIs, web apps,
 - Sharpening backend fundamentals: system design, auth flows, rate limiting, and background jobs
 - Open to internships and collaborative projects in web development
 
-📫 **Email:** [yaseen9805@gmail.com](mailto:yaseen9805@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/yaseen9805](https://linkedin.com/in/yaseen9805)
+## 📫 Connect
+
+- **Email:** [yaseen9805@gmail.com](mailto:yaseen9805@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yaseen9805](https://linkedin.com/in/yaseen9805)
