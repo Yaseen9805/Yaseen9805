@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://yaseenuddin.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yaseenuddin.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/yaseen9805" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-yaseen9805-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yaseen9805@gmail.com"><img src="https://img.shields.io/badge/Email-yaseen9805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -29,6 +30,7 @@ Computer Science student and full-stack developer, building REST APIs, web apps,
 - 🌱 Exploring AI-integrated features: LLM APIs, agents, and how to wire them into real apps
 - ⚙️ Sharpening backend fundamentals: system design, auth flows, rate limiting, and background jobs
 - 👯 Open to internships and collaborative projects in web development
+- 🌐 Portfolio: **[yaseenuddin.me](https://yaseenuddin.me/)**
 - 📫 Reach me at **[yaseen9805@gmail.com](mailto:yaseen9805@gmail.com)** or on **[LinkedIn](https://linkedin.com/in/yaseen9805)**
 
 ## 🚀 Featured Projects
